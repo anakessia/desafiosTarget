@@ -30,7 +30,7 @@ Objetivo: Manipular strings e implementar lógica de laços.
 
 Faça o clone do repositório do projeto:
 ```sh
-git clone https://github.com/anakessia/pokedex-app.git
+git clone https://github.com/anakessia/desafiosTarget.git
 ```
 
 Navegue até o diretório do projeto:
