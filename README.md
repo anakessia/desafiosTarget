@@ -24,3 +24,21 @@ Desafio 5: Inversão de String
 Recebe uma string do usuário e retorna seus caracteres invertidos, sem usar funções prontas como reverse.
 Objetivo: Manipular strings e implementar lógica de laços.
 
+<hr>
+
+# Instruções de uso
+
+Faça o clone do repositório do projeto:
+```sh
+git clone https://github.com/anakessia/pokedex-app.git
+```
+
+Navegue até o diretório do projeto:
+```sh
+cd desafiosTarget
+```
+
+Execute o arquivo de um desafio usando
+```sh
+node desafio1.js
+```
