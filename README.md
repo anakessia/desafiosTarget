@@ -1,5 +1,5 @@
-Desafios de Lógica de Programação
-Este repositório contém a resolução de desafios de lógica de programação desenvolvidos em JavaScript. Cada desafio aborda um problema específico, e as soluções são explicadas a seguir:
+# Desafios de Lógica de Programação
+<p>Este repositório contém a resolução de desafios de lógica de programação desenvolvidos em JavaScript. Cada desafio aborda um problema específico, e as soluções são explicadas a seguir:</p>
 
 Desafio 1: Soma Incremental
 Calcula o valor da variável SOMA ao final de um laço que incrementa valores de 1 a 13.
